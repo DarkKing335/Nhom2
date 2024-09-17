@@ -1,0 +1,1 @@
+2024/09/17 14:45:12 [error] 133#133: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.3, server: _, request: "POST /api/judge_server_heartbeat/ HTTP/1.1", upstream: "http://127.0.0.1:8080/api/judge_server_heartbeat/", host: "oj-backend:8000"
